@@ -50,5 +50,6 @@ void AMovingPlatform::MovePlatform(float DeltaTime)
 			PlatformVelocity = -PlatformVelocity;
 		}
 
+		UE_LOG(LogTemp, Display, TEXT("Your message"));
 }
 
