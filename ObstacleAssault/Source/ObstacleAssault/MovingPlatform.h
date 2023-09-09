@@ -28,10 +28,10 @@ private:
 	FVector StartLocation;
 
 	UPROPERTY(EditAnywhere, Category = "Moving")
-	FVector PlatformVelocity = FVector(0, 100, 0);
+	FVector PlatformVelocity;
 
 	UPROPERTY(EditAnywhere, Category = "Moving")
-	float MoveDistance = 300.0f;
+	float MoveDistance;
 
 	UPROPERTY(EditAnywhere, Category = "Rotation")
 	FRotator RotationVelocity;
