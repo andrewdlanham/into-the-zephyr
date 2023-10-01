@@ -8,13 +8,13 @@
 			"preLaunchTask": "ObstacleAssault Win64 Debug Build",
 			"args": [
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
@@ -24,13 +24,13 @@
 			"preLaunchTask": "ObstacleAssault Win64 DebugGame Build",
 			"args": [
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
@@ -40,13 +40,13 @@
 			"preLaunchTask": "ObstacleAssault Win64 Development Build",
 			"args": [
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
@@ -56,13 +56,13 @@
 			"preLaunchTask": "ObstacleAssault Win64 Test Build",
 			"args": [
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
@@ -72,71 +72,71 @@
 			"preLaunchTask": "ObstacleAssault Win64 Shipping Build",
 			"args": [
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
 			"name": "Launch ObstacleAssaultEditor (Debug)",
 			"request": "launch",
-			"program": "E:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "ObstacleAssaultEditor Win64 Debug Build",
 			"args": [
 				"C:\\Users\\andrewdlanham\\Documents\\unreal-projects\\obstacle-assault\\ObstacleAssault\\ObstacleAssault.uproject"
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
 			"name": "Launch ObstacleAssaultEditor (DebugGame)",
 			"request": "launch",
-			"program": "E:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "ObstacleAssaultEditor Win64 DebugGame Build",
 			"args": [
 				"C:\\Users\\andrewdlanham\\Documents\\unreal-projects\\obstacle-assault\\ObstacleAssault\\ObstacleAssault.uproject"
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
 			"name": "Launch ObstacleAssaultEditor (Development)",
 			"request": "launch",
-			"program": "E:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "ObstacleAssaultEditor Win64 Development Build",
 			"args": [
 				"C:\\Users\\andrewdlanham\\Documents\\unreal-projects\\obstacle-assault\\ObstacleAssault\\ObstacleAssault.uproject"
 			],
-			"cwd": "E:\\UE_5.2",
+			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "E:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "Z:\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\\build\\++UE5\\Sync": "E:\\UE_5.2"
+				"D:\\build\\++UE5\\Sync": "Z:\\UE_5.2"
 			}
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "coreclr",
 			"request": "launch",
-			"program": "E:\\UE_5.2\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"program": "Z:\\UE_5.2\\Engine\\Build\\BatchFiles\\RunUBT.bat",
 			"args": [
 				"-projectfiles",
 				"-vscode",
@@ -146,7 +146,7 @@
 			],
 			"console": "externalTerminal",
 			"stopAtEntry": false,
-			"cwd": "E:\\UE_5.2"
+			"cwd": "Z:\\UE_5.2"
 		}
 	]
 }
