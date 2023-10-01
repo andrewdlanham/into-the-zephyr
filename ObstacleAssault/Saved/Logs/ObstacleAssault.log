@@ -5119,3 +5119,428 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.01-19.24.52:143][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
 [2023.10.01-19.24.52:168][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2023.10.01-19.24.52:192][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.01-19.25.29:574][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.29:574][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.29:574][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.29:575][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.29:575][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: ================================================
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: Total job queries 143, among them cache hits 48 (33.57%)
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: Tracking 95 distinct input hashes that result in 77 distinct outputs (81.05%)
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: RAM used: 2.03 MiB of 819.20 MiB budget. Usage: 0.25%
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.01-19.25.29:633][574]LogShaderCompilers: Display: ================================================
+[2023.10.01-19.25.40:978][892]LogViewport: Scene viewport resized to 1368x827, mode Windowed.
+[2023.10.01-19.25.41:007][893]LogViewport: Scene viewport resized to 1119x676, mode Windowed.
+[2023.10.01-19.25.41:041][894]LogViewport: Scene viewport resized to 928x561, mode Windowed.
+[2023.10.01-19.25.41:068][895]LogViewport: Scene viewport resized to 832x502, mode Windowed.
+[2023.10.01-19.25.41:101][896]LogViewport: Scene viewport resized to 771x465, mode Windowed.
+[2023.10.01-19.25.41:129][897]LogViewport: Scene viewport resized to 748x452, mode Windowed.
+[2023.10.01-19.25.41:159][898]LogViewport: Scene viewport resized to 743x449, mode Windowed.
+[2023.10.01-19.25.43:058][114]LogViewport: Scene viewport resized to 889x537, mode Windowed.
+[2023.10.01-19.25.43:098][115]LogViewport: Scene viewport resized to 1272x770, mode Windowed.
+[2023.10.01-19.25.43:143][116]LogViewport: Scene viewport resized to 1454x880, mode Windowed.
+[2023.10.01-19.25.43:171][117]LogViewport: Scene viewport resized to 1486x899, mode Windowed.
+[2023.10.01-19.25.43:221][118]LogViewport: Scene viewport resized to 1491x902, mode Windowed.
+[2023.10.01-19.25.43:847][188]LogEditorViewport: Clicking Background
+[2023.10.01-19.25.54:807][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.01-19.25.54:864][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.25.54:868][412]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level0.Level0
+[2023.10.01-19.25.54:868][412]Cmd: MAP LOAD FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.01-19.25.54:868][412]LightingResults: New page: Lighting Build
+[2023.10.01-19.25.54:868][412]LoadErrors: New page: Loading map: Level0.umap
+[2023.10.01-19.25.54:890][412]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.25.54:890][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.25.54:890][412]MapCheck: New page: Map Check
+[2023.10.01-19.25.54:890][412]LightingResults: New page: Lighting Build
+[2023.10.01-19.25.54:914][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-19.25.54:917][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.01-19.25.54:919][412]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.25.54:919][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.25.54:945][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.01-19.25.54:971][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.01-19.25.54:977][412]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level0'.
+[2023.10.01-19.25.54:977][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.25.54:977][412]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.25.54:977][412]LogAIModule: Creating AISystem for world Level0
+[2023.10.01-19.25.55:227][412]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.01-19.25.55:254][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.01-19.25.55:261][412]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.01-19.25.55:261][412]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2023.10.01-19.25.55:261][412]LogFileHelpers: Loading map 'Level0' took 0.393
+[2023.10.01-19.25.55:286][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:287][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:287][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:287][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:288][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:288][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:289][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:289][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:290][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:290][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:291][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:291][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.55:292][412]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.25.56:418][536]LogEditorViewport: Clicking Background
+[2023.10.01-19.26.12:389][379]LogContentBrowser: Attempting asset rename: Level0 -> EasyLevel1
+[2023.10.01-19.26.13:847][379]LogSlate: Window 'Message' being destroyed
+[2023.10.01-19.26.13:852][379]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+Level0
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.10.01-19.26.13:865][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-19.26.13:936][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.01-19.26.13:948][379]LogSavePackage: Moving output files for package: /Game/EasyLevel1
+[2023.10.01-19.26.13:948][379]LogSavePackage: Moving 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Saved/EasyLevel1BB181BDD499DCD9C9AA0B3A95AE62947.tmp' to 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/EasyLevel1.umap'
+[2023.10.01-19.26.13:958][379]LogFileHelpers: Saving map 'EasyLevel1' took 0.049
+[2023.10.01-19.26.13:958][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level0" FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level0.umap" SILENT=true
+[2023.10.01-19.26.13:959][379]LogSavePackage: Moving output files for package: /Game/Level0
+[2023.10.01-19.26.13:960][379]LogSavePackage: Moving 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Saved/Level0A6D4EE5C4D30B628D13227A20980572F.tmp' to 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level0.umap'
+[2023.10.01-19.26.13:969][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.66 sec)
+[2023.10.01-19.26.13:977][379]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.01-19.26.13:977][379]LogContentValidation: Display: Validating /Script/Engine.World /Game/EasyLevel1.EasyLevel1
+[2023.10.01-19.26.13:977][379]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Level0.Level0
+[2023.10.01-19.26.15:954][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.01-19.26.16:014][597]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.16:017][597]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level2.Level2
+[2023.10.01-19.26.16:017][597]Cmd: MAP LOAD FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.01-19.26.16:017][597]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.16:017][597]LoadErrors: New page: Loading map: Level2.umap
+[2023.10.01-19.26.16:019][597]LogWorld: UWorld::CleanupWorld for EasyLevel1, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.16:020][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.16:020][597]MapCheck: New page: Map Check
+[2023.10.01-19.26.16:020][597]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.16:046][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-19.26.16:048][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.10.01-19.26.16:050][597]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.16:050][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.16:077][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.01-19.26.16:101][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.01-19.26.16:107][597]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2023.10.01-19.26.16:107][597]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.16:107][597]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.26.16:108][597]LogAIModule: Creating AISystem for world Level2
+[2023.10.01-19.26.16:337][597]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.01-19.26.16:364][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.01-19.26.16:371][597]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.01-19.26.16:371][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2023.10.01-19.26.16:371][597]LogFileHelpers: Loading map 'Level2' took 0.353
+[2023.10.01-19.26.16:397][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:398][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:398][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:398][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:399][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:399][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:399][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:400][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:400][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:401][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:401][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:402][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.16:403][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.17:542][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.01-19.26.17:626][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.17:645][720]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level999.Level999
+[2023.10.01-19.26.17:645][720]Cmd: MAP LOAD FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level999.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.01-19.26.17:645][720]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.17:645][720]LoadErrors: New page: Loading map: Level999.umap
+[2023.10.01-19.26.17:671][720]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.17:671][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.17:671][720]MapCheck: New page: Map Check
+[2023.10.01-19.26.17:671][720]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.17:697][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-19.26.17:700][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.10.01-19.26.17:702][720]LogWorld: UWorld::CleanupWorld for Level999, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.17:703][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.17:730][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.01-19.26.17:754][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.01-19.26.17:784][720]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level999'.
+[2023.10.01-19.26.17:784][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.17:784][720]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.26.17:785][720]LogAIModule: Creating AISystem for world Level999
+[2023.10.01-19.26.18:980][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.01-19.26.19:012][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.10.01-19.26.19:018][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.01-19.26.19:019][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.303ms to complete.
+[2023.10.01-19.26.19:019][720]LogFileHelpers: Loading map 'Level999' took 1.374
+[2023.10.01-19.26.19:048][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:049][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:049][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:049][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:050][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:050][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:051][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:052][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:052][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:054][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:054][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:055][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.19:056][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.30:593][898]LogContentBrowser: Attempting asset rename: Level999 -> EasyLevel2
+[2023.10.01-19.26.30:625][898]LogMetaData: Removing '/Game/EasyLevel2.EasyLevel2_C' ref from Metadata '/Game/Level999.PackageMetaData'
+[2023.10.01-19.26.30:625][898]LogMetaData: Removing '/Game/EasyLevel2.SKEL_EasyLevel2_C' ref from Metadata '/Game/Level999.PackageMetaData'
+[2023.10.01-19.26.30:627][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-19.26.30:700][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.10.01-19.26.30:780][898]LogSavePackage: Moving output files for package: /Game/EasyLevel2
+[2023.10.01-19.26.30:780][898]LogSavePackage: Moving 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Saved/EasyLevel2BBC541F64A8376F72ED6489F4CCE803C.tmp' to 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/EasyLevel2.umap'
+[2023.10.01-19.26.30:791][898]LogFileHelpers: Saving map 'EasyLevel2' took 0.115
+[2023.10.01-19.26.30:792][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level999" FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level999.umap" SILENT=true
+[2023.10.01-19.26.30:793][898]LogSavePackage: Moving output files for package: /Game/Level999
+[2023.10.01-19.26.30:794][898]LogSavePackage: Moving 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Saved/Level9993F34C8C94D4DC9705F39209DBD312AFE.tmp' to 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level999.umap'
+[2023.10.01-19.26.30:803][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 1.84 sec)
+[2023.10.01-19.26.30:812][898]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.01-19.26.30:812][898]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Level999.Default__Level999_C
+[2023.10.01-19.26.30:812][898]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Level999.Level999_C
+[2023.10.01-19.26.30:812][898]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Level999.Level999
+[2023.10.01-19.26.30:812][898]LogContentValidation: Display: Validating /Script/Engine.World /Game/EasyLevel2.EasyLevel2
+[2023.10.01-19.26.32:043][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.01-19.26.32:098][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.32:101][ 22]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level2.Level2
+[2023.10.01-19.26.32:101][ 22]Cmd: MAP LOAD FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.01-19.26.32:101][ 22]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.32:101][ 22]LoadErrors: New page: Loading map: Level2.umap
+[2023.10.01-19.26.32:133][ 22]LogWorld: UWorld::CleanupWorld for EasyLevel2, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.32:133][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.32:134][ 22]MapCheck: New page: Map Check
+[2023.10.01-19.26.32:134][ 22]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.32:160][ 22]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-19.26.32:164][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.10.01-19.26.32:167][ 22]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.32:167][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.32:194][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.01-19.26.32:222][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.01-19.26.32:226][ 22]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2023.10.01-19.26.32:226][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.32:226][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.26.32:227][ 22]LogAIModule: Creating AISystem for world Level2
+[2023.10.01-19.26.32:455][ 22]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.01-19.26.32:481][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.10.01-19.26.32:488][ 22]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.01-19.26.32:488][ 22]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2023.10.01-19.26.32:488][ 22]LogFileHelpers: Loading map 'Level2' took 0.387
+[2023.10.01-19.26.32:517][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:518][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:518][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:518][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:519][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:520][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:521][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:521][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:522][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:523][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:523][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:524][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.32:524][ 22]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.46:633][562]LogContentBrowser: Attempting asset rename: DiagonalLevel -> MediumLevel1
+[2023.10.01-19.26.46:639][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.46:669][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-19.26.46:713][562]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.26.46:740][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.10.01-19.26.46:755][562]LogSavePackage: Moving output files for package: /Game/MediumLevel1
+[2023.10.01-19.26.46:755][562]LogSavePackage: Moving 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Saved/MediumLevel1403EEB6C4787C5A5FC57B49ED189F131.tmp' to 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/MediumLevel1.umap'
+[2023.10.01-19.26.46:764][562]LogFileHelpers: Saving map 'MediumLevel1' took 0.051
+[2023.10.01-19.26.46:770][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.94 sec)
+[2023.10.01-19.26.46:805][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.01-19.26.46:831][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.01-19.26.46:856][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.01-19.26.46:863][562]AssetCheck: New page: Asset Save: MediumLevel1
+[2023.10.01-19.26.46:863][562]LogContentValidation: Display: Validating /Script/Engine.World /Game/MediumLevel1.MediumLevel1
+[2023.10.01-19.26.50:261][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.01-19.26.50:315][926]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.50:324][926]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PushingLevel.PushingLevel
+[2023.10.01-19.26.50:324][926]Cmd: MAP LOAD FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/PushingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.01-19.26.50:324][926]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.50:324][926]LoadErrors: New page: Loading map: PushingLevel.umap
+[2023.10.01-19.26.50:325][926]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.50:325][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.50:325][926]MapCheck: New page: Map Check
+[2023.10.01-19.26.50:325][926]LightingResults: New page: Lighting Build
+[2023.10.01-19.26.50:348][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-19.26.50:351][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.01-19.26.50:352][926]LogWorld: UWorld::CleanupWorld for PushingLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.50:352][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.50:353][926]LogWorld: UWorld::CleanupWorld for MediumLevel1, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.26.50:353][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.26.50:379][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.10.01-19.26.50:403][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.01-19.26.50:409][926]LogAudio: Display: Audio Device (ID: 1) registered with world 'PushingLevel'.
+[2023.10.01-19.26.50:409][926]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.26.50:409][926]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.26.50:410][926]LogAIModule: Creating AISystem for world PushingLevel
+[2023.10.01-19.26.50:640][926]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.01-19.26.50:666][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.01-19.26.50:673][926]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.01-19.26.50:673][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2023.10.01-19.26.50:673][926]LogFileHelpers: Loading map 'PushingLevel' took 0.349
+[2023.10.01-19.26.50:733][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:733][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:733][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:734][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:734][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:734][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:735][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:735][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:735][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:736][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:736][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:737][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.50:737][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.26.56:213][506]LogContentBrowser: Attempting asset rename: PushingLevel -> HardLevel1
+[2023.10.01-19.26.56:243][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-19.26.56:322][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.10.01-19.26.56:337][506]LogSavePackage: Moving output files for package: /Game/HardLevel1
+[2023.10.01-19.26.56:337][506]LogSavePackage: Moving 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Saved/HardLevel1DFDBD445424C0BD678BF139668462D24.tmp' to 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/HardLevel1.umap'
+[2023.10.01-19.26.56:347][506]LogFileHelpers: Saving map 'HardLevel1' took 0.051
+[2023.10.01-19.26.56:354][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.05 sec)
+[2023.10.01-19.26.56:390][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.01-19.26.56:415][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.01-19.26.56:439][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.01-19.26.56:446][506]AssetCheck: New page: Asset Save: HardLevel1
+[2023.10.01-19.26.56:446][506]LogContentValidation: Display: Validating /Script/Engine.World /Game/HardLevel1.HardLevel1
+[2023.10.01-19.27.08:269][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.01-19.27.08:334][797]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.27.08:337][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level2.Level2
+[2023.10.01-19.27.08:338][797]Cmd: MAP LOAD FILE="C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.01-19.27.08:338][797]LightingResults: New page: Lighting Build
+[2023.10.01-19.27.08:338][797]LoadErrors: New page: Loading map: Level2.umap
+[2023.10.01-19.27.08:340][797]LogWorld: UWorld::CleanupWorld for HardLevel1, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.27.08:340][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.27.08:340][797]MapCheck: New page: Map Check
+[2023.10.01-19.27.08:340][797]LightingResults: New page: Lighting Build
+[2023.10.01-19.27.08:364][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-19.27.08:366][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.10.01-19.27.08:368][797]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.27.08:368][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.27.08:393][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.10.01-19.27.08:419][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.10.01-19.27.08:424][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2023.10.01-19.27.08:424][797]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.27.08:424][797]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.27.08:425][797]LogAIModule: Creating AISystem for world Level2
+[2023.10.01-19.27.08:645][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.01-19.27.08:673][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.01-19.27.08:679][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.01-19.27.08:679][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2023.10.01-19.27.08:679][797]LogFileHelpers: Loading map 'Level2' took 0.341
+[2023.10.01-19.27.08:704][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:705][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:705][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:706][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:706][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:707][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:707][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:707][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:708][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:708][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:709][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:709][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.08:709][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.19:570][965]LogContentBrowser: Attempting asset rename: Level2 -> EasyLevel3
+[2023.10.01-19.27.19:596][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.01-19.27.19:672][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.10.01-19.27.19:681][965]LogSavePackage: Moving output files for package: /Game/EasyLevel3
+[2023.10.01-19.27.19:681][965]LogSavePackage: Moving 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Saved/EasyLevel3C1C68FB54F7D6BC104F352A8CEFFFFF4.tmp' to 'C:/Users/andrewdlanham/Documents/unreal-projects/obstacle-assault/ObstacleAssault/Content/EasyLevel3.umap'
+[2023.10.01-19.27.19:691][965]LogFileHelpers: Saving map 'EasyLevel3' took 0.045
+[2023.10.01-19.27.19:698][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 2.16 sec)
+[2023.10.01-19.27.19:733][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.01-19.27.19:758][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.01-19.27.19:782][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.01-19.27.19:788][965]AssetCheck: New page: Asset Save: EasyLevel3
+[2023.10.01-19.27.19:788][965]LogContentValidation: Display: Validating /Script/Engine.World /Game/EasyLevel3.EasyLevel3
+[2023.10.01-19.27.50:496][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.50:497][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.50:497][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.50:498][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.50:498][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.50:499][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.50:499][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.50:943][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.01-19.27.50:943][637]PIE: New page: PIE session: EasyLevel3 (Oct 1, 2023, 11:27:50 AM)
+[2023.10.01-19.27.50:980][637]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EasyLevel3
+[2023.10.01-19.27.50:983][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003093s)
+[2023.10.01-19.27.50:983][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EasyLevel3.EasyLevel3 to /Game/UEDPIE_0_EasyLevel3.EasyLevel3 (0.003134s)
+[2023.10.01-19.27.50:983][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.01-19.27.50:983][637]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.10.01-19.27.50:983][637]LogAIModule: Creating AISystem for world EasyLevel3
+[2023.10.01-19.27.50:984][637]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2023.10.01-19.27.51:010][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.01-19.27.51:011][637]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.10.01-19.27.51:011][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.01-19.27.51:011][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.01-19.27.51:011][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.01-19.27.51:011][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.01-19.27.51:011][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.01-19.27.51:011][637]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.01-19.27.51:011][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.01-19.27.51:011][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.01-19.27.51:012][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.01-19.27.51:012][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.01-19.27.51:012][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.01-19.27.51:014][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.01-19.27.51:062][637]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.01-19.27.51:063][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.01-19.27.51:063][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.01-19.27.51:063][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.01-19.27.51:064][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.10.01-19.27.51:064][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.10.01-19.27.51:065][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.10.01-19.27.51:065][637]LogInit: FAudioDevice initialized with ID 24.
+[2023.10.01-19.27.51:065][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.10.01-19.27.51:065][637]LogAudio: Display: Audio Device (ID: 24) registered with world 'EasyLevel3'.
+[2023.10.01-19.27.51:065][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.10.01-19.27.51:068][637]LogLoad: Game class is 'BP_ObstacleAssaultGameMode_C'
+[2023.10.01-19.27.51:069][637]LogWorld: Bringing World /Game/UEDPIE_0_EasyLevel3.EasyLevel3 up for play (max tick rate 0) at 2023.10.01-15.27.51
+[2023.10.01-19.27.51:260][637]LogWorld: Bringing up level for play took: 0.192595
+[2023.10.01-19.27.51:262][637]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.10.01-19.27.51:272][637]LogTemp: Display: Message: This is a test string
+[2023.10.01-19.27.51:272][637]LogTemp: Display: Message: This is a test string
+[2023.10.01-19.27.51:272][637]LogTemp: Display: Message: This is a test string
+[2023.10.01-19.27.51:272][637]PIE: Server logged in
+[2023.10.01-19.27.51:273][637]PIE: Play in editor total start time 0.33 seconds.
+[2023.10.01-19.27.51:292][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:293][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:293][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:293][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:294][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:294][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:295][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:295][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:295][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:296][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:297][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:297][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:299][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.27.51:300][637]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:820][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-19.28.01:820][881]LogWorld: BeginTearingDown for /Game/UEDPIE_0_EasyLevel3
+[2023.10.01-19.28.01:820][881]LogWorld: UWorld::CleanupWorld for EasyLevel3, bSessionEnded=true, bCleanupResources=true
+[2023.10.01-19.28.01:820][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.28.01:823][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.01-19.28.01:828][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.01-19.28.01:851][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.01-19.28.01:851][881]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.10.01-19.28.01:851][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.10.01-19.28.01:853][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.10.01-19.28.01:857][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.01-19.28.01:859][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.01-19.28.01:883][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:883][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:884][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:884][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:885][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:885][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:886][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:886][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:887][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:887][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:887][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:889][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:889][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.01-19.28.01:913][882]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.10.01-19.28.01:941][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
