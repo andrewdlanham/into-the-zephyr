@@ -73,4 +73,12 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+
+
+# Stuff that I added
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+*.opensdf
 *.pdb

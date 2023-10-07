@@ -356,7 +356,6 @@ C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssaul
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BlockGame\Sounds\placeblock
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BlockGame\Sounds\removeblock
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_DeathTrigger
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_LightSource
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_MovingPlatform
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_ObstacleAssaultGameMode
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_PlayerStart
@@ -391,17 +390,11 @@ C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssaul
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Blueprints\Game\BP_HourOfCode_Game
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\HDRI\HDRI_Epic_Courtyard_Daylight
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_01_end
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_01_end_BuiltData
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_02_end
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_02_end_BuiltData
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_03_end
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_03_end_BuiltData
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_04_end
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_04_end_BuiltData
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_05_end
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_05_end_BuiltData
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_HOC_world
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Maps\Level_HOC_world_BuiltData
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Materials\M_MASTER_OPAQUE
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Materials\MI_Checkpoint
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Materials\MI_gem
@@ -1073,7 +1066,6 @@ C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssaul
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\SCK_Casual01\Mannequin\Character\Textures\UE4_Mannequin_MAT_MASKA
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\SCK_Casual01\Mannequin\Character\Textures\UE4Man_Logo_N
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\SCK_Casual01\Maps\ThirdPersonExampleMap
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\SCK_Casual01\Maps\ThirdPersonExampleMap_BuiltData
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\SCK_Casual01\Materials\Environment_Materials\MAT_BASIC_FLOOR
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\SCK_Casual01\Materials\Environment_Materials\MAT_FLOOR_2
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\SCK_Casual01\Materials\Environment_Materials\MAT_FLOOR_3

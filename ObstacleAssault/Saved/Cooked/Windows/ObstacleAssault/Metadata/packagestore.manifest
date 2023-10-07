@@ -1881,10 +1881,6 @@
 			"ChunkId": "96da9af92910db5300000001"
 		},
 		{
-			"Path": "ObstacleAssault/Content/BP_LightSource.uasset",
-			"ChunkId": "0b076233089a004d00000001"
-		},
-		{
 			"Path": "ObstacleAssault/Content/BP_MovingPlatform.uasset",
 			"ChunkId": "611742bf6eaaa88700000001"
 		},
@@ -2021,48 +2017,24 @@
 			"ChunkId": "0b39249c502fa9d300000001"
 		},
 		{
-			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_01_end_BuiltData.uasset",
-			"ChunkId": "6ef272d3fad4c2e600000001"
-		},
-		{
 			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_02_end.umap",
 			"ChunkId": "eac3a89fd3c014a700000001"
-		},
-		{
-			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_02_end_BuiltData.uasset",
-			"ChunkId": "e69f4eb62c71e94600000001"
 		},
 		{
 			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_03_end.umap",
 			"ChunkId": "1611f8560578536d00000001"
 		},
 		{
-			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_03_end_BuiltData.uasset",
-			"ChunkId": "fced2721e220f0cc00000001"
-		},
-		{
 			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_04_end.umap",
 			"ChunkId": "23495515cd6756a200000001"
-		},
-		{
-			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_04_end_BuiltData.uasset",
-			"ChunkId": "6cc5c4a950ab925600000001"
 		},
 		{
 			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_05_end.umap",
 			"ChunkId": "849936f3dc4d0ec200000001"
 		},
 		{
-			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_05_end_BuiltData.uasset",
-			"ChunkId": "7cbe791c1791c85f00000001"
-		},
-		{
 			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_HOC_world.umap",
 			"ChunkId": "1db7eddecbf326bc00000001"
-		},
-		{
-			"Path": "ObstacleAssault/Content/Hour_of_Code/Maps/Level_HOC_world_BuiltData.uasset",
-			"ChunkId": "59124776c89bc8af00000001"
 		},
 		{
 			"Path": "ObstacleAssault/Content/Hour_of_Code/Materials/M_MASTER_OPAQUE.uasset",
@@ -6213,14 +6185,6 @@
 			"ChunkId": "542e06ee50615bba00000001"
 		},
 		{
-			"Path": "ObstacleAssault/Content/SCK_Casual01/Maps/ThirdPersonExampleMap_BuiltData.uasset",
-			"ChunkId": "20215a1fc69043d800000001"
-		},
-		{
-			"Path": "ObstacleAssault/Content/SCK_Casual01/Maps/ThirdPersonExampleMap_BuiltData.ubulk",
-			"ChunkId": "20215a1fc69043d800000002"
-		},
-		{
 			"Path": "ObstacleAssault/Content/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR.uasset",
 			"ChunkId": "a8b72f03c0e897a700000001"
 		},
@@ -9419,12 +9383,6 @@
 			"Name": "/Game/BP_LevelTrigger"
 		},
 		{
-			"Name": "/Game/BP_LightSource",
-			"ExportBundleChunkIds": [
-				"0b076233089a004d00000001"
-			]
-		},
-		{
 			"Name": "/Game/BP_MovingPlatform",
 			"ExportBundleChunkIds": [
 				"611742bf6eaaa88700000001"
@@ -9632,21 +9590,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Hour_of_Code/Maps/Level_01_end_BuiltData",
-			"ExportBundleChunkIds": [
-				"6ef272d3fad4c2e600000001"
-			]
-		},
-		{
 			"Name": "/Game/Hour_of_Code/Maps/Level_02_end",
 			"ExportBundleChunkIds": [
 				"eac3a89fd3c014a700000001"
-			]
-		},
-		{
-			"Name": "/Game/Hour_of_Code/Maps/Level_02_end_BuiltData",
-			"ExportBundleChunkIds": [
-				"e69f4eb62c71e94600000001"
 			]
 		},
 		{
@@ -9656,21 +9602,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Hour_of_Code/Maps/Level_03_end_BuiltData",
-			"ExportBundleChunkIds": [
-				"fced2721e220f0cc00000001"
-			]
-		},
-		{
 			"Name": "/Game/Hour_of_Code/Maps/Level_04_end",
 			"ExportBundleChunkIds": [
 				"23495515cd6756a200000001"
-			]
-		},
-		{
-			"Name": "/Game/Hour_of_Code/Maps/Level_04_end_BuiltData",
-			"ExportBundleChunkIds": [
-				"6cc5c4a950ab925600000001"
 			]
 		},
 		{
@@ -9680,21 +9614,9 @@
 			]
 		},
 		{
-			"Name": "/Game/Hour_of_Code/Maps/Level_05_end_BuiltData",
-			"ExportBundleChunkIds": [
-				"7cbe791c1791c85f00000001"
-			]
-		},
-		{
 			"Name": "/Game/Hour_of_Code/Maps/Level_HOC_world",
 			"ExportBundleChunkIds": [
 				"1db7eddecbf326bc00000001"
-			]
-		},
-		{
-			"Name": "/Game/Hour_of_Code/Maps/Level_HOC_world_BuiltData",
-			"ExportBundleChunkIds": [
-				"59124776c89bc8af00000001"
 			]
 		},
 		{
@@ -14906,15 +14828,6 @@
 			"Name": "/Game/SCK_Casual01/Maps/ThirdPersonExampleMap",
 			"ExportBundleChunkIds": [
 				"542e06ee50615bba00000001"
-			]
-		},
-		{
-			"Name": "/Game/SCK_Casual01/Maps/ThirdPersonExampleMap_BuiltData",
-			"ExportBundleChunkIds": [
-				"20215a1fc69043d800000001"
-			],
-			"BulkDataChunkIds": [
-				"20215a1fc69043d800000002"
 			]
 		},
 		{
