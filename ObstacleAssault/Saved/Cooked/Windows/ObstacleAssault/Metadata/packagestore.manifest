@@ -1881,6 +1881,10 @@
 			"ChunkId": "96da9af92910db5300000001"
 		},
 		{
+			"Path": "ObstacleAssault/Content/BP_LightSource.uasset",
+			"ChunkId": "0b076233089a004d00000001"
+		},
+		{
 			"Path": "ObstacleAssault/Content/BP_MovingPlatform.uasset",
 			"ChunkId": "611742bf6eaaa88700000001"
 		},
@@ -9413,6 +9417,12 @@
 		},
 		{
 			"Name": "/Game/BP_LevelTrigger"
+		},
+		{
+			"Name": "/Game/BP_LightSource",
+			"ExportBundleChunkIds": [
+				"0b076233089a004d00000001"
+			]
 		},
 		{
 			"Name": "/Game/BP_MovingPlatform",

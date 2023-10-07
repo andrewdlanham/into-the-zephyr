@@ -356,6 +356,7 @@ C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssaul
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BlockGame\Sounds\placeblock
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BlockGame\Sounds\removeblock
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_DeathTrigger
+C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_LightSource
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_MovingPlatform
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_ObstacleAssaultGameMode
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\BP_PlayerStart
