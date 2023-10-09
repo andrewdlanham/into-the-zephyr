@@ -368,7 +368,6 @@ C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssaul
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\EasyLevel1
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\EasyLevel2
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\HardLevel1
-C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\HighresScreenshot00000
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Audio\SFX_checkpoint
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Audio\SFX_coin
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Hour_of_Code\Audio\SFX_door_locked
@@ -1253,7 +1252,13 @@ C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssaul
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Triggers\Level5Trigger
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\Triggers\OutroLevelTrigger
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\TutorialLevel
+C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\Autumn_Wind
+C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\Autumn_Wind_0_Font
+C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\Autumn_Wind_Font
+C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\itz-cover-image
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\MainMenu
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\MenuGameMode
+C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\TechnoRaceItalic-eZRWe
+C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\UI\TechnoRaceItalic-eZRWe_Font
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\ShaderArchive-ObstacleAssault_Chunk0-PCD3D_SM5-PCD3D_SM5.ushaderbytecode
 C:\Users\andrewdlanham\Documents\unreal-projects\obstacle-assault\ObstacleAssault\Saved\Cooked\Windows\ObstacleAssault\Content\ShaderArchive-ObstacleAssault_Chunk0-PCD3D_SM6-PCD3D_SM6.ushaderbytecode

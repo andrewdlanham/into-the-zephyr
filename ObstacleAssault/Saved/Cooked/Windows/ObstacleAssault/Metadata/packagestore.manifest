@@ -1929,10 +1929,6 @@
 			"ChunkId": "99c0d44f3750ef6d00000001"
 		},
 		{
-			"Path": "ObstacleAssault/Content/HighresScreenshot00000.uasset",
-			"ChunkId": "478f149451ced25f00000001"
-		},
-		{
 			"Path": "ObstacleAssault/Content/Hour_of_Code/Audio/SFX_checkpoint.uasset",
 			"ChunkId": "5bea72a1527cf42b00000001"
 		},
@@ -7381,12 +7377,36 @@
 			"ChunkId": "dfe88564622bfb4100000001"
 		},
 		{
+			"Path": "ObstacleAssault/Content/UI/Autumn_Wind.uasset",
+			"ChunkId": "644f6044d74a08da00000001"
+		},
+		{
+			"Path": "ObstacleAssault/Content/UI/Autumn_Wind_0_Font.uasset",
+			"ChunkId": "cb41ea09e483b15e00000001"
+		},
+		{
+			"Path": "ObstacleAssault/Content/UI/Autumn_Wind_Font.uasset",
+			"ChunkId": "78dad5667d7a344e00000001"
+		},
+		{
+			"Path": "ObstacleAssault/Content/UI/itz-cover-image.uasset",
+			"ChunkId": "a43a103626e58b3f00000001"
+		},
+		{
 			"Path": "ObstacleAssault/Content/UI/MainMenu.uasset",
 			"ChunkId": "0d12f96386516f7900000001"
 		},
 		{
 			"Path": "ObstacleAssault/Content/UI/MenuGameMode.uasset",
 			"ChunkId": "d6733e5ee64b9fd500000001"
+		},
+		{
+			"Path": "ObstacleAssault/Content/UI/TechnoRaceItalic-eZRWe.uasset",
+			"ChunkId": "f07d3316b47cec1400000001"
+		},
+		{
+			"Path": "ObstacleAssault/Content/UI/TechnoRaceItalic-eZRWe_Font.uasset",
+			"ChunkId": "c863e56bb482e4a700000001"
 		}
 	],
 	"Packages": [
@@ -9455,12 +9475,6 @@
 			"Name": "/Game/HardLevel1",
 			"ExportBundleChunkIds": [
 				"99c0d44f3750ef6d00000001"
-			]
-		},
-		{
-			"Name": "/Game/HighresScreenshot00000",
-			"ExportBundleChunkIds": [
-				"478f149451ced25f00000001"
 			]
 		},
 		{
@@ -16289,6 +16303,30 @@
 			]
 		},
 		{
+			"Name": "/Game/UI/Autumn_Wind",
+			"ExportBundleChunkIds": [
+				"644f6044d74a08da00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Autumn_Wind_0_Font",
+			"ExportBundleChunkIds": [
+				"cb41ea09e483b15e00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Autumn_Wind_Font",
+			"ExportBundleChunkIds": [
+				"78dad5667d7a344e00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/itz-cover-image",
+			"ExportBundleChunkIds": [
+				"a43a103626e58b3f00000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/MainMenu",
 			"ExportBundleChunkIds": [
 				"0d12f96386516f7900000001"
@@ -16298,6 +16336,18 @@
 			"Name": "/Game/UI/MenuGameMode",
 			"ExportBundleChunkIds": [
 				"d6733e5ee64b9fd500000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/TechnoRaceItalic-eZRWe",
+			"ExportBundleChunkIds": [
+				"f07d3316b47cec1400000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/TechnoRaceItalic-eZRWe_Font",
+			"ExportBundleChunkIds": [
+				"c863e56bb482e4a700000001"
 			]
 		},
 		{

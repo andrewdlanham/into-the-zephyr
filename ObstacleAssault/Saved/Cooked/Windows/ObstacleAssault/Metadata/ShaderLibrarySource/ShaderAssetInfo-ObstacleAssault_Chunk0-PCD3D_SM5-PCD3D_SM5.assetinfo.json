@@ -2,9 +2,9 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "EA4F587680326F515A68BB9AF9A9FDD4522A2B7A",
+			"ShaderMapHash": "10DDD402E5FEEFD1C022A04523AABB782C6FABAD",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -14,21 +14,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2ACCC903A21F404939F681368E78901A91590DEF",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "B91D9C85B05EBD910DDBAF07FA77ADB2FEF38663",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
 			]
 		},
 		{
-			"ShaderMapHash": "10DDD402E5FEEFD1C022A04523AABB782C6FABAD",
+			"ShaderMapHash": "D76802C1D4B7B22752EE4C82439F6D5D80AF4DC5",
 			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2ACCC903A21F404939F681368E78901A91590DEF",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+				"/Engine/EngineMaterials/GizmoMaterial"
 			]
 		},
 		{
@@ -45,15 +45,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F871DC46BE0D94B755A24614D379E300946D12B3",
+			"ShaderMapHash": "EA4F587680326F515A68BB9AF9A9FDD4522A2B7A",
 			"Assets": [
-				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "D76802C1D4B7B22752EE4C82439F6D5D80AF4DC5",
+			"ShaderMapHash": "F871DC46BE0D94B755A24614D379E300946D12B3",
 			"Assets": [
-				"/Engine/EngineMaterials/GizmoMaterial"
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
 			]
 		},
 		{
@@ -66,6 +66,19 @@
 			"ShaderMapHash": "6F5D7A35238D5A57901D6BA2481BD3D4199B04F9",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BC28B1BF93DC376CA3D8C22C3125B1092ACDF749",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "3ADCB4EE7C84DB4212A0CE70DB7901F27CECC781",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/LearningKit_Games/Assets/Architecture/M_Kit_Wall_Door"
 			]
 		},
 		{
@@ -87,22 +100,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BC28B1BF93DC376CA3D8C22C3125B1092ACDF749",
-			"Assets": [
-				"/Engine/EditorMaterials/Camera/CineMat"
-			]
-		},
-		{
-			"ShaderMapHash": "3ADCB4EE7C84DB4212A0CE70DB7901F27CECC781",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/LearningKit_Games/Assets/Architecture/M_Kit_Wall_Door"
-			]
-		},
-		{
 			"ShaderMapHash": "B20AC355AE02A02B36252DD45B85472C1E5C8FC7",
 			"Assets": [
 				"/Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR"
+			]
+		},
+		{
+			"ShaderMapHash": "B3161F72818923612C188349DE1A056353B483BF",
+			"Assets": [
+				"/Game/LearningKit_Games/MaterialLibrary/Misc/M_Spline_Edges"
 			]
 		},
 		{
@@ -130,21 +136,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B3161F72818923612C188349DE1A056353B483BF",
-			"Assets": [
-				"/Game/LearningKit_Games/MaterialLibrary/Misc/M_Spline_Edges"
-			]
-		},
-		{
 			"ShaderMapHash": "148EFBD20BB8B538D471F252A0966DF2B17E3795",
 			"Assets": [
 				"/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_VFX_EmissiveMesh"
-			]
-		},
-		{
-			"ShaderMapHash": "547CBC44500A4B4EA1A32753FB6010A8A7D20619",
-			"Assets": [
-				"/Game/Hour_of_Code/Materials/M_MASTER_OPAQUE"
 			]
 		},
 		{
@@ -157,6 +151,18 @@
 			"ShaderMapHash": "C01D951EB995D99835F046A6FDC5CB6E57B0F988",
 			"Assets": [
 				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "547CBC44500A4B4EA1A32753FB6010A8A7D20619",
+			"Assets": [
+				"/Game/Hour_of_Code/Materials/M_MASTER_OPAQUE"
+			]
+		},
+		{
+			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
@@ -179,15 +185,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"ShaderMapHash": "DB83F0B29CF537746B1D96A0E2D8B5E52FAC7798",
 			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "B96DD9D6C6A00386D453E93ADFB0EE4E543F7291",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BE25E6496A289E7C74B4543C3B0DF63601EC2C1A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0C6B74CEFE45D0FE98292338A7ABFE82FE5F1B32",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "66E455B7B7ECB6DA1D3CA3B308750773F5A697A2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
 			]
 		},
 		{
@@ -216,45 +240,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BE25E6496A289E7C74B4543C3B0DF63601EC2C1A",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "9797E69E91BFDECB629F3F14F83D158CA6168EFF",
-			"Assets": [
-				"/Game/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO"
-			]
-		},
-		{
-			"ShaderMapHash": "DB83F0B29CF537746B1D96A0E2D8B5E52FAC7798",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "1728F99764F8D139CED7606E561784425A64F036",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
-			]
-		},
-		{
-			"ShaderMapHash": "0C6B74CEFE45D0FE98292338A7ABFE82FE5F1B32",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "66E455B7B7ECB6DA1D3CA3B308750773F5A697A2",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E5CAAD301F047E73761B5365E6511B0DA56FBC4D",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
@@ -264,21 +252,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0E29EEF8E2AFDAB9E0F42B848BC2CB348FA4011F",
+			"ShaderMapHash": "9797E69E91BFDECB629F3F14F83D158CA6168EFF",
 			"Assets": [
-				"/Game/LearningKit_Games/MaterialLibrary/Misc/M_Spline_Center"
-			]
-		},
-		{
-			"ShaderMapHash": "622BE2BF07D94E9B0F777A2634B278C0ED4B86EB",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_WindTunnelWisps"
-			]
-		},
-		{
-			"ShaderMapHash": "8B94180324A85D0280FCEF4C443F652B701CCE61",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/MI_LeafLogo"
+				"/Game/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO"
 			]
 		},
 		{
@@ -288,38 +264,44 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B2A81B2608FB608EEEC6F9D948F4840DCBC80C0B",
+			"ShaderMapHash": "8B94180324A85D0280FCEF4C443F652B701CCE61",
 			"Assets": [
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Present_Ribbons"
+				"/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/MI_LeafLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "E5CAAD301F047E73761B5365E6511B0DA56FBC4D",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "95FAC022FFB5ADF36EC1F32CEF458C2BB8B2970C",
 			"Assets": [
 				"/Game/LearningKit_Games/Assets/_Shared/Materials/M_LearningKit_MasterGradient",
+				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Grass",
+				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Dirt",
 				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_TanPurple",
+				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_GreenYellow",
 				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_GreenBlueB",
 				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_GreenBlue",
-				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Dirt",
+				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Cobblestone",
+				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Clover",
 				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_CloverFlowers",
 				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Cermaic",
-				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Grass",
-				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Cobblestone",
-				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_GreenYellow",
-				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_Clover",
 				"/Game/LearningKit_Games/MaterialLibrary/ObjBasedGradients/MI_Grad_GrassB"
-			]
-		},
-		{
-			"ShaderMapHash": "901E805523E77C9808D7523348F6BDF53182794D",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/_Shared/Materials/M_RenderTarget"
 			]
 		},
 		{
 			"ShaderMapHash": "1A8903919A497AB18DBF3DF65A853D2523FC6291",
 			"Assets": [
 				"/Game/LearningKit_Games/Assets/VFX/LightRay/M_vfx_lightray_01_bright"
+			]
+		},
+		{
+			"ShaderMapHash": "622BE2BF07D94E9B0F777A2634B278C0ED4B86EB",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_WindTunnelWisps"
 			]
 		},
 		{
@@ -341,36 +323,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6A813BDE33ED7863A74071DBFB67E617374AF8F4",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "D9BAE9DEEBB0AF65B0CFB713A354E57C128111E7",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/_Shared/Materials/M_TextRender_MASTER"
-			]
-		},
-		{
-			"ShaderMapHash": "86BABAC370A75E3E136D18DA5557ABB3F6A3E3B7",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/Characters/Character/Material/M_EpicCharacter_Optimized"
-			]
-		},
-		{
-			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
-			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D212A545A5312F274C4E4CA5BD57ED97D9BC9E70",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
 			"ShaderMapHash": "48674F62C86011014A12735CC82C9525540634EA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -383,9 +335,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0E29EEF8E2AFDAB9E0F42B848BC2CB348FA4011F",
+			"Assets": [
+				"/Game/LearningKit_Games/MaterialLibrary/Misc/M_Spline_Center"
+			]
+		},
+		{
+			"ShaderMapHash": "901E805523E77C9808D7523348F6BDF53182794D",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/M_RenderTarget"
+			]
+		},
+		{
+			"ShaderMapHash": "B2A81B2608FB608EEEC6F9D948F4840DCBC80C0B",
+			"Assets": [
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Present_Ribbons"
+			]
+		},
+		{
+			"ShaderMapHash": "86BABAC370A75E3E136D18DA5557ABB3F6A3E3B7",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/M_EpicCharacter_Optimized"
+			]
+		},
+		{
 			"ShaderMapHash": "62D3DF209AC4E17A9A316F3E4664ABA1B6ACC897",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6A813BDE33ED7863A74071DBFB67E617374AF8F4",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -407,6 +389,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D212A545A5312F274C4E4CA5BD57ED97D9BC9E70",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "9EFA2C70BAAB59019EE47CF4C8DBB3B02BB5947E",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -419,15 +413,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
+			"ShaderMapHash": "D9BAE9DEEBB0AF65B0CFB713A354E57C128111E7",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/M_TextRender_MASTER"
 			]
 		},
 		{
-			"ShaderMapHash": "F886C8F086794EB08045C15F4D06CF2FE6A993BA",
+			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
 			"Assets": [
-				"/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/MI_WindWipe"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
@@ -443,25 +437,19 @@
 			]
 		},
 		{
-			"ShaderMapHash": "947AF800DAC884F064AB8542F55F37345C3A6E62",
+			"ShaderMapHash": "F886C8F086794EB08045C15F4D06CF2FE6A993BA",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+				"/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/MI_WindWipe"
 			]
 		},
 		{
 			"ShaderMapHash": "60058B4DD6E06DD217BD91A7EF8C249AD8B105E1",
 			"Assets": [
+				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_L_00",
 				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_H_A1",
 				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_T_03",
 				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_T_00",
-				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_P_00",
-				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_L_00"
-			]
-		},
-		{
-			"ShaderMapHash": "220BBA27FA5CB614B527A077FC9EB0B8FF2A1219",
-			"Assets": [
-				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_A_04"
+				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_P_00"
 			]
 		},
 		{
@@ -482,9 +470,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "220BBA27FA5CB614B527A077FC9EB0B8FF2A1219",
+			"Assets": [
+				"/Game/SCK_Casual01/Materials/Master_Materials/MAT_A_04"
+			]
+		},
+		{
 			"ShaderMapHash": "F6A719D29F077213845CB427FC0714E9275FCD28",
 			"Assets": [
 				"/Game/SCK_Casual01/Mannequin/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "947AF800DAC884F064AB8542F55F37345C3A6E62",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
 			]
 		},
 		{
@@ -494,15 +494,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "79F1D87DA65CE9AC219985A5B23FC7269E3AAB48",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/_Shared/Materials/Material_Master"
-			]
-		},
-		{
 			"ShaderMapHash": "1854E2E23FEC8A86F44B0632CD5E9066CF523AA7",
 			"Assets": [
 				"/Game/LearningKit_Games/Assets/VFX/Pollen/MI_pollem_camerafade"
+			]
+		},
+		{
+			"ShaderMapHash": "79F1D87DA65CE9AC219985A5B23FC7269E3AAB48",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/_Shared/Materials/Material_Master"
 			]
 		},
 		{
@@ -535,20 +535,28 @@
 		{
 			"ShaderMapHash": "3D5E061E888F32AC2B24AD3B590A8B922666A100",
 			"Assets": [
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Tiger",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_StuccoA",
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Polkadots",
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_MetalPainted",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Tiger",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Stars",
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_MetalPanneling",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Polkadots",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Galaxy",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_MetalPainted",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Marble",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Leopard",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Leaves",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Hearts",
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Galaxy",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Cloud",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Checkers",
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Marble",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_MetalPanneling",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Argyle"
+			]
+		},
+		{
+			"ShaderMapHash": "F3E0BB5C68E58C5C4EC04ECAB6CC66649FC3FF96",
+			"Assets": [
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_LadyBugB",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_LadyBug",
+				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Reflector"
 			]
 		},
 		{
@@ -557,14 +565,6 @@
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_PlasticShinyH",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_PlasticShiny",
 				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Brick"
-			]
-		},
-		{
-			"ShaderMapHash": "F3E0BB5C68E58C5C4EC04ECAB6CC66649FC3FF96",
-			"Assets": [
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_Reflector",
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_LadyBugB",
-				"/Game/LearningKit_Games/MaterialLibrary/Tileable/MI_LadyBug"
 			]
 		},
 		{
@@ -588,6 +588,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "92C725902795530EA61464C1CFACFD351727A712",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Backpack",
+				"/Game/LearningKit_Games/Assets/Environment/Clouds/Material/MI_Cloud_01",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_BedRoll",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Skin",
+				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_SleevesShorts"
+			]
+		},
+		{
 			"ShaderMapHash": "1856749241A0EC86C9CC14C14CA558D2CAF72178",
 			"Assets": [
 				"/Game/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleSphere_A/Material/MI_PuzzleSphere_A",
@@ -595,16 +605,6 @@
 				"/Game/LearningKit_Games/Assets/Props/Powerups/Powerup_A/Material/MI_Powerup_A",
 				"/Game/LearningKit_Games/Assets/Props/Buttons/Button_A/Material/MI_Button_A",
 				"/Game/Hour_of_Code/Materials/MI_Key"
-			]
-		},
-		{
-			"ShaderMapHash": "92C725902795530EA61464C1CFACFD351727A712",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/Environment/Clouds/Material/MI_Cloud_01",
-				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_BedRoll",
-				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Backpack",
-				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_SleevesShorts",
-				"/Game/LearningKit_Games/Assets/Characters/Character/Material/MI_epicCharacter_Skin"
 			]
 		},
 		{
@@ -628,6 +628,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "07C9819EDE4206D61C123353C8BD896FBA754FED",
+			"Assets": [
+				"/Game/LearningKit_Games/Assets/VFX/Pollen/VFX_Pollen"
+			]
+		},
+		{
 			"ShaderMapHash": "FE47842F4D89A2954B6098E8FF7A7E625FD72D3E",
 			"Assets": [
 				"/Game/LearningKit_Games/Assets/VFX/Emitters/Character/NS_Celebrate"
@@ -643,12 +649,6 @@
 			"ShaderMapHash": "0CEBC8AD609F74FEE5540C0632F4154BBB3988FF",
 			"Assets": [
 				"/Game/LearningKit_Games/Assets/VFX/Emitters/Character/NS_Celebrate"
-			]
-		},
-		{
-			"ShaderMapHash": "07C9819EDE4206D61C123353C8BD896FBA754FED",
-			"Assets": [
-				"/Game/LearningKit_Games/Assets/VFX/Pollen/VFX_Pollen"
 			]
 		}
 	]
